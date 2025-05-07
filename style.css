@@ -1,0 +1,14 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    height: 100vh;
+    overflow: hidden;
+    background-color: skyblue;
+
+}
+
+#board{
+    background-image: url("bg.jpeg");
+    /* background-size: cover; */
+    
+}
